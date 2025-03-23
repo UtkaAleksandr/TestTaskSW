@@ -1,0 +1,9 @@
+tittle = "TOML Example"
+
+[database]
+host = "localhost"
+port =
+
+[owner]
+username = ""
+password = ""
